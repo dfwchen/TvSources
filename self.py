@@ -1,6 +1,6 @@
 import requests
 
-url = "https://live.zhoujie218.top/tv/iptv4.txt"
+url = ""
 
 r = requests.get(url)
 r.encoding = "utf-8"
